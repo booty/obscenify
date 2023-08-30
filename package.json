@@ -1,0 +1,23 @@
+{
+  "name": "booty-obscenify",
+  "version": "1.0.0",
+  "description": "Makes a string mildly impolite",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booty/obscenify.git"
+  },
+  "keywords": [
+    "toy",
+    "obscenity"
+  ],
+  "author": "John Booty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booty/obscenify/issues"
+  },
+  "homepage": "https://github.com/booty/obscenify#readme"
+}
